@@ -18,6 +18,8 @@
   </strong>
 </p>
 <p align="center">
+ <img src="https://github.com/hpayami/hpayami/blob/main/images/swift.svg" alt="csharp" width="40" height="40" />
+ <img src="https://github.com/hpayami/hpayami/blob/main/images/swiftui.svg" alt="javascript" width="40" height="40" />
 <img src="https://github.com/hpayami/hpayami/blob/main/images/csharp.svg" alt="csharp" width="40" height="40" />
  <img src="https://github.com/hpayami/hpayami/blob/main/images/javascript.svg" alt="javascript" width="40" height="40" />
 <img src="https://github.com/hpayami/hpayami/blob/main/images/react.svg" alt="react" width="40" height="40" />
