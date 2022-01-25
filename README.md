@@ -1,16 +1,52 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm PhD Hossein Payami 👋
+</h1>
 
-<!--
-**hpayami/hpayami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ <a href="https://www.linkedin.com/in/hossein-payami-047530227/" target="_blank">
+  <img src="https://github.com/hpayami/hpayami/blob/main/images/linkedin.svg" alt="linkedin" width="40" height="40" />
+ </a>
+ <a href="https://www.linkedin.com/in/saif-aust-cse/" target="_blank">
+  <img src="https://github.com/saifaustcse/saif/blob/main/images/glassdoor.svg" alt="linkedin" width="40" height="40"/>
+ </a>
 
-Here are some ideas to get you started:
+ <!-- <a href="https://twitter.com/hosseinpayami" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
+ </a> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+<p align="center">
+ <strong>
+  Professional skills
+  </strong>
+</p>
+
+<p align="center">
+ 
+<img src="https://github.com/hpayami/hpayami/blob/main/images/csharp.svg" alt="csharp" width="40" height="40" />
+<!-- <img src="https://github.com/hpayami/hpayami/blob/main/images/javascript.svg" alt="javascript" width="40" height="40" /> -->
+<img src="https://github.com/hpayami/hpayami/blob/main/images/react.svg" alt="react" width="40" height="40" />
+<img src="https://github.com/hpayami/hpayami/blob/main/images/angular.svg" alt="angular" width="40" height="40" />
+<!-- <img src="https://github.com/hpayami/hpayami/blob/main/images/typescript.svg" alt="typescript" width="40" height="40" /> -->
+<!-- <img src="https://github.com/hpayami/hpayami/blob/main/images/dot-net.svg" alt="dotNet" width="40" height="40" /> -->
+<img src="https://github.com/hpayami/hpayami/blob/main/images/node.svg" raw=true alt="node" width="40" height="40"/>
+<img src="https://github.com/hpayami/hpayami/blob/main/images/mongodb.svg" alt="mongodb" width="40" height="40" />
+<img src="https://github.com/hpayami/hpayami/blob/main/images/mssql.svg" alt="mongodb" width="40" height="40" />
+<img src="https://github.com/hpayami/hpayami/blob/main/images/mysql.svg" alt="mongodb" width="40" height="40" />
+<img src="https://github.com/hpayami/hpayami/blob/main/images/docker.svg" alt="docker" width="40" height="40" />
+<!-- <img src="github.com/hpayami/hpayami/blob/main/images/docker.svg/kubernetes.png" alt="kubernetes" width="43" height="43" /> -->
+
+</p>
+
+-   💬 Ask me about: Swift , SwiftUI ,.NET(C#), ASP.Net Core , Angular, NodeJs, JavaScript, Mongo, MSSQL, MySql , Onion Architecture, Micro Services
+-   👯 I’m looking to collaborate on: .NET projects,iOS projects and MEAN Stack projects
+-   📫 How to reach me: hpayami@outlook.com
+-   ![](https://instagram.com/dr__hpayami)
+    </br>
+
+<p align="center">
+ <a href="#" alt="Hossein Payami's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=hpayami&theme=tokyonight&show_icons=true" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpayami" /> -->
+ </a>
+</p>
