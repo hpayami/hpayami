@@ -3,7 +3,7 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/hossein-payami-047530227/" target="_blank">
-  <img src="https://github.com/hpayami/hpayami/main/images/linkedin.svg" alt="linkedin" width="40" height="40" />
+  <img src="https://github.com/hpayami/hpayami/blob/main/images/linkedin.svg" alt="linkedin" width="40" height="40" />
  </a>
   <a href="https://twitter.com/hosseinpayami" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
@@ -18,12 +18,12 @@
   </strong>
 </p>
 <p align="center">
- <img src="https://github.com/hpayami/hpayami/main/images/swift.svg" alt="csharp" width="40" height="40" />
- <img src="https://github.com/hpayami/hpayami/main/images/swiftui.svg" alt="javascript" width="40" height="40" />
-<img src="https://github.com/hpayami/hpayami/main/images/csharp.svg" alt="csharp" width="40" height="40" />
- <img src="https://github.com/hpayami/hpayami/main/images/javascript.svg" alt="javascript" width="40" height="40" />
-<img src="https://github.com/hpayami/hpayami/main/images/react.svg" alt="react" width="40" height="40" />
-<img src="https://github.com/hpayami/hpayami/main/images/angular.svg" alt="angular" width="40" height="40" />
+ <img src="https://github.com/hpayami/hpayami/blob/main/images/swift.svg" alt="csharp" width="40" height="40" />
+ <img src="https://github.com/hpayami/hpayami/blob/main/images/swiftui.svg" alt="javascript" width="40" height="40" />
+<img src="https://github.com/hpayami/hpayami/blob/main/images/csharp.svg" alt="csharp" width="40" height="40" />
+ <img src="https://github.com/hpayami/hpayami/blob/main/images/javascript.svg" alt="javascript" width="40" height="40" />
+<img src="https://github.com/hpayami/hpayami/blob/main/images/react.svg" alt="react" width="40" height="40" />
+<img src="https://github.com/hpayami/hpayami/blob/main/images/angular.svg" alt="angular" width="40" height="40" />
  <img src="https://github.com/hpayami/hpayami/blob/main/images/typescript.svg" alt="typescript" width="40" height="40" /> 
  <img src="https://github.com/hpayami/hpayami/blob/main/images/dot-net.svg" alt="dotNet" width="40" height="40" /> 
 <img src="https://github.com/hpayami/hpayami/blob/main/images/node.svg" raw=true alt="node" width="40" height="40"/>
