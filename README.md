@@ -15,7 +15,7 @@
 <a href="https://instagram.com/swiftui_developer" target="_blank">
   <img src="https://github.com/hpayami/hpayami/blob/main/images/devops.jpg" />
  </a>
-<p align="center">
+<p align="Left">
  <strong>
   Professional skills
   </strong>
