@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm PhD Hossein Payami 👋
-</h1>
+# Hi there, I'm PhD Hossein Payami 👋
 
 <p align="center">
  <a href="https://www.linkedin.com/in/hossein-payami-047530227/" target="_blank">
