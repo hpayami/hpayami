@@ -29,9 +29,8 @@
 # 💬 Ask me about: 
 # Swift , # SwiftUI , # Angular, # NodeJs, # JavaScript, # Mongo, # MSSQL, # MySql ,# mongoDB , # Postgre , # MVVM , # VIPER, # RxSwift
 #  👯 I’m looking to collaborate on: iOS projects and Angular projects
-#   📫 How to reach me: hpayami@icloud.com
-#   ![ <img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>](https://instagram.com/dr__hpayami)
-    </br>
+#   📫 How to reach me: info:hpayami@icloud.com
+ </br>
 
 <p align="center">
  <a href="#" alt="Hossein Payami's github stats">
