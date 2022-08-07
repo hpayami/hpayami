@@ -15,9 +15,8 @@
 <a href="https://instagram.com/swiftui_developer" target="_blank">
   <img src="https://github.com/hpayami/hpayami/blob/main/images/devops.jpg" />
  </a>
-<p align="Left">
+ 
   #Professional skills
-</p>
 <p align="center">
  <img src="https://github.com/hpayami/hpayami/blob/main/images/swift.svg" alt="csharp" width="40" height="40" />
  <img src="https://github.com/hpayami/hpayami/blob/main/images/swiftui.svg" alt="javascript" width="40" height="40" />
