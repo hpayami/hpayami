@@ -26,6 +26,7 @@
  <img src="https://github.com/hpayami/hpayami/blob/main/images/docker.svg" alt="docker" width="40" height="40" />
  <img src="https://github.com/hpayami/hpayami/blob/main/images/kubernetes.png" alt="kubernetes" width="43" height="43" />
 </p>
+ </br>
 💬 Ask me about: 
 # Swift
 # SwiftUI
@@ -44,7 +45,7 @@
 # CoreData
 #  👯 I’m looking to collaborate on: iOS projects and Angular projects
 #   📫 How to reach me: info:hpayami@icloud.com
- </br>
+
 
 <p align="center">
  <a href="#" alt="Hossein Payami's github stats">
