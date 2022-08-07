@@ -16,9 +16,7 @@
   <img src="https://github.com/hpayami/hpayami/blob/main/images/devops.jpg" />
  </a>
 <p align="Left">
- <strong>
-  Professional skills
-  </strong>
+  #Professional skills
 </p>
 <p align="center">
  <img src="https://github.com/hpayami/hpayami/blob/main/images/swift.svg" alt="csharp" width="40" height="40" />
