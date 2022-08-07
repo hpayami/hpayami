@@ -26,8 +26,22 @@
  <img src="https://github.com/hpayami/hpayami/blob/main/images/docker.svg" alt="docker" width="40" height="40" />
  <img src="https://github.com/hpayami/hpayami/blob/main/images/kubernetes.png" alt="kubernetes" width="43" height="43" />
 </p>
-# 💬 Ask me about: 
-# Swift , # SwiftUI , # Angular, # NodeJs, # JavaScript, # Mongo, # MSSQL, # MySql ,# mongoDB , # Postgre , # MVVM , # VIPER, # RxSwift
+💬 Ask me about: 
+# Swift
+# SwiftUI
+# Angular
+# NodeJS
+# JavaScript
+# Mongo
+# MSSQL
+# MySql
+# mongoDB
+# PostgreSQL
+# MVVM
+# VIPER
+# RxSwift
+# RealM
+# CoreData
 #  👯 I’m looking to collaborate on: iOS projects and Angular projects
 #   📫 How to reach me: info:hpayami@icloud.com
  </br>
