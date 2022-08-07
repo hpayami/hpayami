@@ -26,10 +26,11 @@
  <img src="https://github.com/hpayami/hpayami/blob/main/images/docker.svg" alt="docker" width="40" height="40" />
  <img src="https://github.com/hpayami/hpayami/blob/main/images/kubernetes.png" alt="kubernetes" width="43" height="43" />
 </p>
--   💬 Ask me about: # Swift , # SwiftUI , # Angular, # NodeJs, # JavaScript, # Mongo, # MSSQL, # MySql ,# mongoDB , # Postgre , # MVVM , # VIPER, # RxSwift
--   👯 I’m looking to collaborate on: iOS projects and Angular projects
--   📫 How to reach me: hpayami@icloud.com
--   ![](https://instagram.com/dr__hpayami)
+# 💬 Ask me about: 
+# Swift , # SwiftUI , # Angular, # NodeJs, # JavaScript, # Mongo, # MSSQL, # MySql ,# mongoDB , # Postgre , # MVVM , # VIPER, # RxSwift
+#  👯 I’m looking to collaborate on: iOS projects and Angular projects
+#   📫 How to reach me: hpayami@icloud.com
+#   ![ <img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>](https://instagram.com/dr__hpayami)
     </br>
 
 <p align="center">
