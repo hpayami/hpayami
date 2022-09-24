@@ -23,7 +23,7 @@
  <img src="https://github.com/hpayami/hpayami/blob/main/images/typescript.svg" alt="typescript" width="40" height="40" />  
  <img src="https://github.com/hpayami/hpayami/blob/main/images/mongodb.svg" alt="mongodb" width="40" height="40" />
  <img src="https://github.com/hpayami/hpayami/blob/main/images/mssql.svg" alt="MySql" width="40" height="40" /> 
-  <img src="https://github.com/hpayami/hpayami/blob/main/images/postgresql.png" alt="kubernetes" width="43" height="43" />
+  <img src="https://github.com/hpayami/hpayami/blob/main/postgresql.png" alt="kubernetes" width="43" height="43" />
  <img src="https://github.com/hpayami/hpayami/blob/main/images/docker.svg" alt="docker" width="40" height="40" />
  <img src="https://github.com/hpayami/hpayami/blob/main/images/kubernetes.png" alt="kubernetes" width="43" height="43" />
 </p>
