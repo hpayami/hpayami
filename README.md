@@ -17,8 +17,18 @@
  
  # Professional skills
 <p align="center">
- <img src="https://github.com/hpayami/hpayami/blob/main/images/swift.svg" alt="csharp" width="40" height="40" />
- <img src="https://github.com/hpayami/hpayami/blob/main/images/swiftui.svg" alt="javascript" width="40" height="40" />
+ <img src="https://github.com/hpayami/hpayami/blob/main/images/swift.svg" alt="swift" width="40" height="40" />
+ <img src="https://github.com/hpayami/hpayami/blob/main/images/swiftui.svg" alt="swiftui" width="40" height="40" />
+ <img src="https://github.com/hpayami/hpayami/blob/main/coordinator.svg" alt="coordinator" width="40" height="40" />
+ <img src="https://github.com/hpayami/hpayami/blob/main/designpattern.svg" alt="designpattern" width="40" height="40" />
+ <img src="https://github.com/hpayami/hpayami/blob/main/mvvm.svg" alt="mvvm" width="40" height="40" />
+ <img src="https://github.com/hpayami/hpayami/blob/main/RxSwift.svg" alt="RxSwift" width="40" height="40" />
+ <img src="https://github.com/hpayami/hpayami/blob/main/uikit.svg" alt="uikit" width="40" height="40" />
+  <img src="https://github.com/hpayami/hpayami/blob/main/vapor.svg" alt="vapor" width="40" height="40" />
+   <img src="https://github.com/hpayami/hpayami/blob/main/viper.svg" alt="viper" width="40" height="40" />
+ 
+ 
+ 
  <img src="https://github.com/hpayami/hpayami/blob/main/images/angular.svg" alt="angular" width="40" height="40" />
  <img src="https://github.com/hpayami/hpayami/blob/main/images/typescript.svg" alt="typescript" width="40" height="40" />  
  <img src="https://github.com/hpayami/hpayami/blob/main/images/mongodb.svg" alt="mongodb" width="40" height="40" />
