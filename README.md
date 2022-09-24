@@ -1,7 +1,7 @@
 # Hi there, I'm PhD Hossein Payami 👋
 
 <p align="center">
- <a href="https://www.linkedin.com/in/hossein-payami-047530227/" target="_blank">
+ <a href="https://www.linkedin.com/in/hossein-payami/" target="_blank">
   <img src="https://github.com/hpayami/hpayami/blob/main/images/linkedin.svg" alt="linkedin" width="40" height="40" />
  </a>
   <a href="https://twitter.com/hosseinpayami" target="_blank">
