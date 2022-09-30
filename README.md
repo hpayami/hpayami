@@ -21,12 +21,11 @@
  <img src="https://github.com/hpayami/hpayami/blob/main/images/swiftui.svg" alt="swiftui" width="40" height="40" />
  <img src="https://github.com/hpayami/hpayami/blob/main/coordinator.png" alt="coordinator" width="120" height="40" />
  <img src="https://github.com/hpayami/hpayami/blob/main/designpattern.png" alt="designpattern" width="120" height="40"  />
- <img src="https://github.com/hpayami/hpayami/blob/main/mvvm.png" alt="mvvm"  width="120" height="40" />
+ <img src="https://github.com/hpayami/hpayami/blob/main/mvvm.png" alt="mvvm"  width="110" height="40" />
  <img src="https://github.com/hpayami/hpayami/blob/main/RxSwift.png" alt="RxSwift" width="50" height="40"  />
  <img src="https://github.com/hpayami/hpayami/blob/main/uikit.png" alt="uikit"  width="50" height="40" />
- <img src="https://github.com/hpayami/hpayami/blob/main/vapor.png" alt="vapor"width="120" height="40"  />
- <img src="https://github.com/hpayami/hpayami/blob/main/viper.png" alt="viper" width="120" height="40"  />
-  
+ <img src="https://github.com/hpayami/hpayami/blob/main/vapor.png" alt="vapor"width="110" height="40"  />
+ <img src="https://github.com/hpayami/hpayami/blob/main/viper.png" alt="viper" width="110" height="40"  />
  <img src="https://github.com/hpayami/hpayami/blob/main/images/angular.svg" alt="angular" width="40" height="40" />
  <img src="https://github.com/hpayami/hpayami/blob/main/images/typescript.svg" alt="typescript" width="40" height="40" />  
  <img src="https://github.com/hpayami/hpayami/blob/main/images/mongodb.svg" alt="mongodb" width="40" height="40" />
