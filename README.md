@@ -1,4 +1,4 @@
-# Hi there, I'm PhD Hossein Payami 👋
+# Hi there, I'm Hossein Payami 👋
 
 <p align="center">
  <a href="https://www.linkedin.com/in/hossein-payami/" target="_blank">
