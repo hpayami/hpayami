@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on swift(UIKit, SwiftUI)<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br>🌱 I’m currently learning swift , Python , Deep Learning<br>💬 Ask me about swift<br> 
+🔭 I’m currently working on swift(UIKit, SwiftUI)<br>👯 I’m looking to collaborate on Swift Project <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Python , Deep Learning<br>💬 Ask me about swift<br> 
 
 
 ## 🌐 Socials:
