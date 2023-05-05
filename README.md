@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on swift(UIKit, SwiftUI)<br>👯 I’m looking to collaborate on Swift Project <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Python , Deep Learning<br>💬 Ask me about swift<br> 
+<br>As a senior iOS developer with 9 years of experience,<br>I possess a deep understanding of the Swift and SwiftUI.<br>My expertise includes developing complex mobile applications, <br>creating robust and scalable architectures, and <br>implementing elegant and intuitive user interfaces. <br>Throughout my career, I have consistently demonstrated <br>my ability to work collaboratively with cross-functional teams to <br>deliver high-quality software products <br>that exceed customer expectations.<br><br>🔭 I’m currently working on swift(UIKit, SwiftUI)<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br>🌱 I’m currently learning swift , Python , Deep Learning<br>💬 Ask me about swift<br> <br>
 
 
 ## 🌐 Socials:
