@@ -4,10 +4,10 @@
 <br/>
 
 ## iOS Development 📱
-- <img width=15 src="https://user-images.githubusercontent.com/59176579/155759319-69ca0edf-36dd-4d9d-b7a8-1074b2112e29.png"/> Swift 5+, Objc-C & iOS 16+ Frameworks
+- <img width=15 src="https://user-images.githubusercontent.com/59176579/155759319-69ca0edf-36dd-4d9d-b7a8-1074b2112e29.png"/> Swift 5+, SwiftUI & iOS 16+ Frameworks
 - <img width=15 src="https://user-images.githubusercontent.com/59176579/158831428-918705d6-4bc3-4456-9e54-8cce2da587d7.png"/> UIKit, SwiftUI, SpriteKit, SceneKit, ARKit & more
-- <img width=15 src="https://user-images.githubusercontent.com/59176579/155759739-c594c55b-6f04-4feb-9278-bc82258ff89e.png"/> Unit, UI, Snapshot & Integration tests (XCTest, Quick, Nimble, FBSnapshot...)
-- <img width=15 src="https://user-images.githubusercontent.com/59176579/155759812-84a076dd-06c4-4bde-b441-d8e16e8640bc.png"/> MVC, MVVM, VIPER, VIP, Hexagonal, Onion & Clean Architecture
+- <img width=15 src="https://user-images.githubusercontent.com/59176579/155759739-c594c55b-6f04-4feb-9278-bc82258ff89e.png"/> Unit, UI, Snapshot & Integration tests (XCTest...)
+- <img width=15 src="https://user-images.githubusercontent.com/59176579/155759812-84a076dd-06c4-4bde-b441-d8e16e8640bc.png"/> MVC, MVVM, VIPER, VIP , Onion & Clean Architecture
 - <img width=15 src="https://user-images.githubusercontent.com/59176579/155759817-9402e32f-adab-452b-a533-c35b18839202.png"/> C.I, C.D, Git flow, Kanbam & Scrum
 - <img width=15 src="https://user-images.githubusercontent.com/59176579/155760079-81550bf2-5aca-4d37-a0c2-6fa7f18f2444.png"/> Clean Code, SOLID, KISS, YAGNI and other principles
 - <img width=15 src="https://user-images.githubusercontent.com/59176579/155759945-93cb9157-e2a3-4227-8b39-8dc387effe56.png"/> iOS Design Patterns
@@ -15,12 +15,6 @@
 <br/>
 
 ## About me 👨‍💻
-
-I have been a fierce **Apple** consumer ever since the first **iPhone** came out. As a creativity-driven person, being able to develop solutions that I carry on the palm of my hand was (and still is) *breathtakingly exciting*. And that's what I'm always doing... even (and more so!) on my spare time, developing apps *just feels amazing*.
- 
-
-<br/>
-<br/>
  
 <br>As a senior iOS developer with 9 years of experience,<br>I possess a deep understanding of the Swift and SwiftUI.<br>My expertise includes developing complex mobile applications, <br>creating robust and scalable architectures, and <br>implementing elegant and intuitive user interfaces. <br>Throughout my career, I have consistently demonstrated <br>my ability to work collaboratively with cross-functional teams to <br>deliver high-quality software products <br>that exceed customer expectations.<br><br>🔭 I’m currently working on swift(UIKit, SwiftUI)<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br>🌱 I’m currently learning swift , Python , Deep Learning<br>💬 Ask me about swift<br> <br>
 
